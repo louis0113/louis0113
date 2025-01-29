@@ -22,13 +22,13 @@ ___negrito e italico___
 -----------------------------     
  - Lista 1
  - Lista 2
-     -Sublista
+     - Sublista
 
 -----------------------------
      Lista ordenada
 -----------------------------     
- 1. Lista 1
- 2. Lista 2
+ 1.  Lista 1
+ 2.  Lista 2
      1. Sublista
 
 ---------------
