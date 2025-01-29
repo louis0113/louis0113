@@ -1,7 +1,7 @@
 # TUTORIAL SIMPLES DE MARKDOWN
 
 -----------------
-    Cabeçahos
+    Cabeçalhos
 -----------------
 # - Título 1
 ## - Título 2
@@ -22,14 +22,14 @@ ___negrito e italico___
 -----------------------------     
  - Lista 1
  - Lista 2
-    -Sublista
+     -Sublista
 
 -----------------------------
      Lista ordenada
 -----------------------------     
  1. Lista 1
  2. Lista 2
-   1. Sublista
+     1. Sublista
 
 ---------------
     Links
@@ -37,19 +37,19 @@ ___negrito e italico___
  [Texto](Link)
 
 ------------
-  Imagens
+    Imagens
 ------------
 ![Texto da Imagem](Link da Imagem)
 
---------------------
-CÓDIGOS(UMA LINHA
---------------------
+---------------------------
+    CÓDIGOS (UMA LINHA)
+---------------------------
 
 `print("hello world")`
 
---------------------
-CÓDIGOS(BLOCO DE CÓDIGO)
---------------------
+----------------------------------
+      CÓDIGOS (BLOCO DE CÓDIGO)
+----------------------------------
 
 ```
 #include <stdio.h>
