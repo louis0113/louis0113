@@ -1,12 +1,10 @@
 
 # Apresentação
 
-<div align="center">
-    <h2> Quem sou eu?</h2>
-</div>
+## Quem sou eu?
 
-Meu nome é *Luiz Henrique Ramos de Souza*, sou um jovem pernambucano de 21 anos com um simples sonho de trabalhar na área de __programação__. Um pequeno teste aqui :)  
-Teste commit não verificado
+
+Meu nome é *Luiz Henrique Ramos de Souza*, sou um jovem pernambucano de 21 anos com um simples sonho de trabalhar na área de __programação__. 
 
 
 
